@@ -1,1 +1,1 @@
-hi
+import Head from next/head;
